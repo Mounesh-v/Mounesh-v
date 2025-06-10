@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Mounesh, a Bachelor of Engineering (B.E.) student specializing in Computer Science and Engineering at BMS Institute of Technology and Management (BMSIT), Bangalore. I am passionate about exploring emerging technologies, especially in the areas of software development, artificial intelligence, and full-stack web development. With a strong foundation in computer science concepts and a drive to build innovative solutions, I’m constantly learning and upgrading my skills to contribute effectively in tech-driven environments.
+I’m Mounesh, a Bachelor of Engineering (B.E.) student specializing in Computer Science and Engineering at BMS Institute of Technology and Management (BMSIT), Bangalore. I am passionate about exploring emerging technologies, especially in the areas of software development and full-stack web development. With a strong foundation in computer science concepts and a drive to build innovative solutions, I’m constantly learning and upgrading my skills to contribute effectively in tech-driven environments.
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
